@@ -1,1 +1,1 @@
-# connectedComponents
+# Componentes conectados
